@@ -6,12 +6,10 @@ I appreciate your understanding and feedback
 
 Thank you for taking the time to review my work.
 
----
 To run test in non-UI This command can be used: 
-npx playwright test 
+**npx playwright test**
 To run test in UI mode this command can be used:
-npx playwright test --headed
----
+**npx playwright test --headed**
 
 ## About the project
 
