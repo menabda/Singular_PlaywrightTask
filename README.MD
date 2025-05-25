@@ -31,6 +31,7 @@ Main objective of the assignment was to check the main functionalities of system
 3) proceeding through checkout. 
 
 My written test tests ensure that key features work as expected from a user’s perspective.
+After each step in the test file, validations are used to verify that the application behaves as expected before moving on to the next step.
 
 Currently, only positive scenarios with a single valid user are automated.  
 Future enhancements can include:
